@@ -1,0 +1,12 @@
+Package: sarar
+Type: Package
+Title: Absolute Values
+Version: 0.1.0
+Author: Sarah Hepworth
+Maintainer: Sarah Hepworth <sarahhepworth@gmail.com>
+Description: Finds the absolute value for each nuber and add them together.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr
+RoxygenNote: 6.0.1
